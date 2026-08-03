@@ -28,7 +28,6 @@ coauthors.
 
 ## Incompressible Fluid Mechanics
 <img src="/assets/images/fluid-mech-cover.jpg" alt="Incompressible Fluid Mechanics textbook cover" style="float: right; width: 150px; margin: 0 0 1em 1.5em;">
-
 A graduate-level textbook on incompressible 
 fluid mechanics, developed for a 
 first-year graduate fluid mechanics course. 
