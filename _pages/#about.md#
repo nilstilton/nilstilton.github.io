@@ -20,11 +20,10 @@ mathematics to develop reduced-order
 models for complex systems that 
 can't be efficiently modeled with 
 direct simulation. These reduced 
-models often run 100 to 1000 times 
-faster than CFD, enabling large-scale 
+models run 100 to 1000 times 
+faster than CFD, and enable large-scale 
 optimization and design studies that 
-would be impractical using direct 
-CFD.
+would be otherwise unfeasible.
 
 
 I earned my Ph.D. in Mechanical 
