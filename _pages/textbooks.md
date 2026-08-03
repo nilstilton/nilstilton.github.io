@@ -12,6 +12,17 @@ coursework and research actually demand.
 All books are released under a Creative 
 Commons license and are free to download.
 
+Development of these textbooks was
+generously supported by the U.S.
+National Science Foundation (grant
+numbers 1752531 and 2306329) and the
+[Colorado Department of Higher Education
+Open Educational Resources Grant
+Program](https://cdhe.colorado.gov/open-educational-resources-in-colorado).
+All funding supported student
+collaborators, who are acknowledged as
+coauthors.
+
 ## Incompressible Fluid Mechanics
 
 A graduate-level textbook on incompressible 
