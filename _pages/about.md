@@ -1,7 +1,11 @@
 ---
 permalink: /about/
 title: "About"
+header:
+  image: /assets/images/about-banner.jpg
+  image_description: "Description of the image"
 ---
+
 
 I'm an engineer with 20+ years of 
 experience developing advanced numerical 
