@@ -23,6 +23,9 @@ All funding supported student
 collaborators, who are acknowledged as
 coauthors.
 
+![NSF logo](/assets/images/nsf-logo.png) ![Colorado Department of Higher Education logo](/assets/images/cdhe-logo.png)
+
+
 ## Incompressible Fluid Mechanics
 
 ![Incompressible Fluid Mechanics textbook cover](/assets/images/fluid-mech-cover.jpg)
