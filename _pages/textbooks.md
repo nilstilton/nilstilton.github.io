@@ -25,6 +25,12 @@ coauthors.
 
 ## Incompressible Fluid Mechanics
 
+
+## Incompressible Fluid Mechanics
+
+![Incompressible Fluid Mechanics textbook cover](/assets/images/fluid-mech-cover.jpg)
+
+
 A graduate-level textbook on incompressible 
 fluid mechanics, developed for a 
 first-year graduate fluid mechanics course. 
@@ -36,6 +42,9 @@ student and instructor feedback.
 
 ## Engineering Math
 
+![Engineering Math textbook cover](/assets/images/end-math-cover.jpg)
+
+
 A graduate-level textbook on mathematical 
 methods for engineers, covering ordinary 
 and partial differential equations, Fourier transforms, 
@@ -46,3 +55,6 @@ and an introduction to numerical methods.
 ---
 
 More textbooks, covering the fundamentals of CFD, OpenFOAM, C++, and the command line, are in progress and will be added here as they're published.
+
+
+  
