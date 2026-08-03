@@ -28,8 +28,7 @@ coauthors.
 
 ## Incompressible Fluid Mechanics
 
-![Incompressible Fluid Mechanics textbook cover](/assets/images/fluid-mech-cover.jpg)
-
+<img src="/assets/images/fluid-mech-cover.jpg" alt="Incompressible Fluid Mechanics textbook cover" style="float: right; width: 150px; margin: 0 0 1em 1.5em;">
 
 A graduate-level textbook on incompressible 
 fluid mechanics, developed for a 
@@ -39,6 +38,9 @@ since 2018, and revised annually based on
 student and instructor feedback.
 
 [View repository and download PDF →](https://github.com/nilstilton/FluidMechBook)
+
+<div style="clear: both;"></div>
+
 
 ## Engineering Math
 
