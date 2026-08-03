@@ -23,7 +23,7 @@ All funding supported student
 collaborators, who are acknowledged as
 coauthors.
 
-![NSF logo](/assets/images/nsf-logo.png) ![Colorado Department of Higher Education logo](/assets/images/cdhe-logo.png)
+<img src="/assets/images/nsf-logo.png" alt="NSF logo" style="height: 80px; margin-right: 2em;"> <img src="/assets/images/cdhe-logo.png" alt="Colorado Department of Higher Education logo" style="height: 40px;">
 
 
 ## Incompressible Fluid Mechanics
