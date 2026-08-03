@@ -44,8 +44,7 @@ student and instructor feedback.
 
 ## Engineering Math
 
-![Engineering Math textbook cover](/assets/images/eng-math-cover.jpg)
-
+<img src="/assets/images/eng-mech-cover.jpg" alt="Engineering Math textbook cover" style="float: right; width: 150px; margin: 0 0 1em 1.5em;">
 
 A graduate-level textbook on mathematical 
 methods for engineers, covering ordinary 
@@ -53,6 +52,9 @@ and partial differential equations, Fourier transforms,
 and an introduction to numerical methods.
 
 [View repository and download PDF →](https://github.com/nilstilton/EngineeringMathBook)
+
+<div style="clear: both;"></div>
+
 
 ---
 
