@@ -1,7 +1,11 @@
 ---
 permalink: /textbooks/
 title: "Textbooks"
+header:
+  image: /assets/images/textbooks-banner.jpg
+  image_description: "Verification of an immersed boundary method"
 ---
+
 
 I write free, open-access textbooks 
 for the graduate courses I teach. 

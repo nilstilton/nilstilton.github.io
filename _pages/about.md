@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 header:
   image: /assets/images/about-banner.jpg
-  image_description: "Description of the image"
+  image_description: "Buoyant mixing in CO2 sequestration"
 ---
 
 
