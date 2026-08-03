@@ -25,9 +25,6 @@ coauthors.
 
 ## Incompressible Fluid Mechanics
 
-
-## Incompressible Fluid Mechanics
-
 ![Incompressible Fluid Mechanics textbook cover](/assets/images/fluid-mech-cover.jpg)
 
 
@@ -42,7 +39,7 @@ student and instructor feedback.
 
 ## Engineering Math
 
-![Engineering Math textbook cover](/assets/images/end-math-cover.jpg)
+![Engineering Math textbook cover](/assets/images/eng-math-cover.jpg)
 
 
 A graduate-level textbook on mathematical 
