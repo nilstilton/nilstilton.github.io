@@ -27,7 +27,6 @@ coauthors.
 
 
 ## Incompressible Fluid Mechanics
-
 <img src="/assets/images/fluid-mech-cover.jpg" alt="Incompressible Fluid Mechanics textbook cover" style="float: right; width: 150px; margin: 0 0 1em 1.5em;">
 
 A graduate-level textbook on incompressible 
@@ -44,8 +43,7 @@ student and instructor feedback.
 
 ## Engineering Math
 
-<img src="/assets/images/eng-mech-cover.jpg" alt="Engineering Math textbook cover" style="float: right; width: 150px; margin: 0 0 1em 1.5em;">
-
+<img src="/assets/images/eng-math-cover.jpg" alt="Engineering Math textbook cover" style="float: right; width: 150px; margin: 0 0 1em 1.5em;">
 A graduate-level textbook on mathematical 
 methods for engineers, covering ordinary 
 and partial differential equations, Fourier transforms, 
