@@ -1,6 +1,9 @@
 ---
 permalink: /contact/
 title: "Contact"
+header:
+  image: /assets/images/contact-banner.jpg
+  image_description: "Flow regimes in porous media"
 ---
 
 The best way to reach me is by email:
