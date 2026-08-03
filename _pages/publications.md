@@ -1,6 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
+classes: wide
 ---
 
 1. M. Soleimani, K. Koponen, N. Tilton, A.P.S. Bhalla, 2026, "Analytical and numerical solutions to the three-phase Stefan problem with simultaneous occurrences of melting, solidification, boiling, and condensation phenomena," *ASME Journal of Heat and Mass Transfer*, 148(1), 012401. [DOI](https://asmedigitalcollection.asme.org/heattransfer/article/148/1/012401/1220006/Analytical-and-Numerical-Solutions-to-the-Three)
