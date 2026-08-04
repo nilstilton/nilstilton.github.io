@@ -81,8 +81,7 @@ I'm now looking to bring my
 expertise in numerical methods, 
 software development, and applied 
 math to industry R&D.
-You can find my resume and 
-academic CV linked below, or 
-reach out directly via the 
+You can find my [academic CV](/assets/files/nils-tilton-cv.pdf)
+here, or reach out directly via the
 links in the sidebar.
 
