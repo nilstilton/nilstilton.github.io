@@ -72,19 +72,6 @@ author:
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=KBnIHOIAAAAJ"
 
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/nilstilton"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/nilstilton/"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?hl=en&user=KBnIHOIAAAAJ"
-
-
 defaults:
   # _posts
   - scope:
