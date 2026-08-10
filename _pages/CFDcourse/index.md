@@ -12,3 +12,4 @@ license.
 ## Chapters
 
 - [Chapter 1: The Advection-Diffusion Equation](/CFDcourse/chapter1/)
+- [Chapter 2: Finite Difference Methods](/CFDcourse/chapter2/)
