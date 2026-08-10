@@ -3,5 +3,7 @@ main:
     url: /about/
   - title: "Textbooks"
     url: /textbooks/
+  - title: "CFD Course"
+    url: /CFDcourse/
   - title: "Contact"
     url: /contact/
