@@ -16,7 +16,7 @@ number as a motivating example.
 
 **Chapter 1 — The Advection-Diffusion Equation**
 
-[Download the theory chapter (PDF)](assets/CFDcourse/pdfs/textbook-ch1.pdf){: .btn .btn--primary}
+[Download the theory chapter (PDF)](/assets/CFDcourse/pdfs/textbook-ch1.pdf){: .btn .btn--primary}
 
 Topics covered: derivation of the advection-diffusion equation, the 1D
 advection equation, the 1D diffusion equation, the combined
@@ -26,7 +26,7 @@ advection-diffusion equation, the Péclet number, and Burgers' equation.
 
 **Chapter 1 — A First C++ Program: Input, Output, and Decisions**
 
-[Download the homework chapter (PDF)](assets/CFDcourse/pdfs/homework-ch1.pdf){: .btn .btn--primary}
+[Download the homework chapter (PDF)](/assets/CFDcourse/pdfs/homework-ch1.pdf){: .btn .btn--primary}
 
 Topics covered: the `main` function, basic types (`int`, `double`),
 math operations and type conversions, terminal input/output (`cin`/`cout`),
