@@ -1,9 +1,7 @@
 ---
 title: "Chapter 1: The Advection-Diffusion Equation"
 layout: single
-permalink: /course/chapter1/
-toc: true
-toc_sticky: true
+permalink: /CFDcourse/chapter1/
 ---
 
 ## Overview
