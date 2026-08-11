@@ -36,3 +36,15 @@ from user-supplied, validated inputs.
 
 ## Lectures
 
+**Lecture 1: Derivation of the Advection Diffusion Equation**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xe13zkZwiV4"
+title="Lecture 1: Derivation of the Advection Diffusion Equation"
+frameborder="0" allowfullscreen></iframe>
+
+**Lecture 2: Physical Interpretation of the Advection Diffusion Equation**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/71aW0cJLYhI"
+title="Lecture 2: Physical Interpretation of the Advection Diffusion Equation"
+frameborder="0" allowfullscreen></iframe>
+
