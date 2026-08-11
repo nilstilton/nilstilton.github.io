@@ -2,6 +2,11 @@
 title: "Chapter 1: The Advection-Diffusion Equation"
 layout: single
 permalink: /CFDcourse/chapter1/
+header:
+  image: /assets/images/cfd-ch1-banner.jpg
+  image_description: "Contents of textbook chapter 1 "
+rtices"
+classes: wide
 ---
 
 ## Overview

@@ -2,6 +2,10 @@
 title: "Chapter 2: Finite Difference Methods"
 layout: single
 permalink: /CFDcourse/chapter2/
+header:
+  image: /assets/images/cfd-ch2-banner.jpg
+  image_description: "Contents of textbook chapter 2"
+classes: wide
 ---
 
 ## Overview
