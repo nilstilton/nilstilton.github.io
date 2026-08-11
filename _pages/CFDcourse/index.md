@@ -2,6 +2,10 @@
 title: "CFD Course"
 layout: single
 permalink: /CFDcourse/
+header:
+  image: /assets/images/publications-banner.jpg
+  image_description: "Advection-diffusion of a passive scalar by Taylor Green vortices"
+classes: wide
 ---
 
 An open-access course on computational fluid dynamics, consisting of a
