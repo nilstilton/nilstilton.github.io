@@ -43,6 +43,8 @@ theory) to compute the vorticity profile in a laminar boundary layer,
 verify the observed order-of-accuracy against the expected rate, and
 interpret the resulting vorticity profile physically.
 
-## Lectures
+**Lecture 3: Finite Differences and Order-of-Accuracy**
 
-*Video lectures for this chapter are coming soon.*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/msa0l5ZSPzI"
+title="Lecture 3: Finite Differences and Order-of-Accuracy"
+frameborder="0" allowfullscreen></iframe>
