@@ -4,8 +4,7 @@ layout: single
 permalink: /CFDcourse/chapter1/
 header:
   image: /assets/images/cfd-ch1-banner.jpg
-  image_description: "Contents of textbook chapter 1 "
-rtices"
+  image_description: "Contents of textbook chapter 1"
 classes: wide
 ---
 
