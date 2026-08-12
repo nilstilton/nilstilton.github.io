@@ -41,7 +41,7 @@ sum-of-neighbors rule, and boundedness).
 
 **Lecture 4: Derivation of the Advection Diffusion Equation**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/taGh7idWYVA"
+<iframe width="392" height="220" src="https://www.youtube.com/embed/taGh7idWYVA"
 title="Lecture 4: Finite-Volume Discretization of Steady Heat Conduction"
 frameborder="0" allowfullscreen></iframe>
 
