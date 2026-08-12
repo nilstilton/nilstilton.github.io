@@ -35,3 +35,20 @@ heat conduction solver in MATLAB using the method of manufactured
 solutions; and guidelines for physically reliable finite-volume
 discretizations (consistent fluxes, positive coefficients, the
 sum-of-neighbors rule, and boundedness).
+
+
+## Lectures
+
+**Lecture 4: Derivation of the Advection Diffusion Equation**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/taGh7idWYVA"
+title="Lecture 4: Finite-Volume Discretization of Steady Heat Conduction"
+frameborder="0" allowfullscreen></iframe>
+
+**Lecture 5: Physical Interpretation of the Advection Diffusion Equation**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i5hcexNPQI8"
+title="Lecture 5: Applying Boundary Conditions in Finite-Volume Methods"
+frameborder="0" allowfullscreen></iframe>
+
+
