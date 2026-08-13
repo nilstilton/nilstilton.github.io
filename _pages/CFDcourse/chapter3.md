@@ -79,3 +79,18 @@ frameborder="0" allowfullscreen></iframe>
 title="Lecture 7: Memory, Sparsity, and Linear Solvers in Finite-Volume Methods"
 frameborder="0" allowfullscreen></iframe>
 
+
+**Lecture 8: Basic Rules for Robust Finite-Volume Schemes**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mhu1QFkM0zU"
+title="Lecture 8: Basic Rules for Robust Finite-Volume Schemes"
+frameborder="0" allowfullscreen></iframe>
+
+
+**Lecture9: Verifying CFD Codes with the Method of Manufactured Solutions**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/faoZjhgV63Q"
+title="Lecture9: Verifying CFD Codes with the Method of Manufactured Solutions"
+frameborder="0" allowfullscreen></iframe>
+
+
