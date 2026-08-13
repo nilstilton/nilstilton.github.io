@@ -36,6 +36,22 @@ solutions; and guidelines for physically reliable finite-volume
 discretizations (consistent fluxes, positive coefficients, the
 sum-of-neighbors rule, and boundedness).
 
+## Homework
+
+**Chapter 3 — C++ Vectors and Writing Output to File**
+
+[Download the homework chapter (PDF)](/assets/CFDcourse/pdfs/homework-ch3.pdf){: .btn .btn--primary}
+
+Topics covered: C++ vectors (dynamic arrays whose size is set at run
+time), vector member functions, and writing data to file using
+`ofstream`. The end-of-chapter assignment guides you through building a
+complete finite-volume solver for the 2D steady heat conduction equation
+with constant conductivity: assembling the sparse coefficient matrix,
+building the right-hand-side vector, solving the linear system with
+Eigen, and verifying the solver using the method of manufactured
+solutions. The verified solver is then applied to simulate a heat fin
+with inconsistent corner boundary conditions, including a grid
+sensitivity study that reveals a hidden singularity in the solution.
 
 ## Lectures
 
