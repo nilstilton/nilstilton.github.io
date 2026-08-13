@@ -55,16 +55,20 @@ sensitivity study that reveals a hidden singularity in the solution.
 
 ## Lectures
 
-**Lecture 4: Derivation of the Advection Diffusion Equation**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/taGh7idWYVA"
 title="Lecture 4: Finite-Volume Discretization of Steady Heat Conduction"
 frameborder="0" allowfullscreen></iframe>
 
-**Lecture 5: Physical Interpretation of the Advection Diffusion Equation**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i5hcexNPQI8"
 title="Lecture 5: Applying Boundary Conditions in Finite-Volume Methods"
 frameborder="0" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qpllq7_GHf0"
+title="Lecture 6: Assembling the Global Matrix System"
+frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JXjqs3NIe1Q"
+title="Lecture 7: Memory, Sparsity, and Linear Solvers in Finite-Volume Methods"
+frameborder="0" allowfullscreen></iframe>
 
