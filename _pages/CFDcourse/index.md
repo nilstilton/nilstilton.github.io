@@ -18,3 +18,4 @@ license.
 - [Chapter 1: The Advection-Diffusion Equation](/CFDcourse/chapter1/)
 - [Chapter 2: Finite Difference Methods](/CFDcourse/chapter2/)
 - [Chapter 3: Introduction to Finite Volume Methods: Steady Heat Conduction](/CFDcourse/chapter3/)
+- [Chapter 4: Grid Convergence Studies](/CFDcourse/chapter4/)
