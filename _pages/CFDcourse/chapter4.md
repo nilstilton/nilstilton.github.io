@@ -32,3 +32,17 @@ estimating discretization error via the approximate and
 extrapolated relative errors; the Grid Convergence Index (GCI).
 
 ## Homework
+
+[Download the homework chapter (PDF)](/assets/CFDcourse/pdfs/homework-ch4.pdf){: .btn .btn--primary}
+
+Topics covered: this homework extends our heat conduction 
+solver to simulate steady heat conduction with a spatially 
+varying thermal conductivity. In the process, we introduce 
+how to read inputs from file, and offload repetitive 
+tasks to basic C++ functions. We verify our solver 
+using the method of manufactured solutions and 
+then simulate steady heat conduction in a nuclear 
+fuel rod with a piecewise conductivity. We conclude
+with a grid convergence study that
+examines how the discontinuous conductivity affects 
+accuracy.
